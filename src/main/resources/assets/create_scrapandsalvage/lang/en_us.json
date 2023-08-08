@@ -1,0 +1,19 @@
+{
+  "creativetab.scrap_and_salvage_tab": "Scrap and Salvage",
+
+  "item.create_scrapandsalvage.scrap_sickle": "Scrap Sickle",
+  "block.create_scrapandsalvage.scrap_heap": "Scrap Heap",
+
+  "block.create_scrapandsalvage.steel_block": "Steel Block",
+  "block.create_scrapandsalvage.rusted_steel": "Rusted Steel",
+
+  "block.create_scrapandsalvage.cement_block": "Cement Block",
+  "block.create_scrapandsalvage.cracked_cement_block": "Cracked Cement Block",
+  "block.create_scrapandsalvage.powdered_cement_block": "Powdered Cement Block",
+
+  "block.create_scrapandsalvage.c_coal_ore": "Crude Coal ore",
+  "block.create_scrapandsalvage.deepslate_c_coal_ore": "Deepslate Crude Coal ore",
+
+  "item.create_scrapandsalvage.c_coal_shard": "Crude Coal Shard",
+  "item.create_scrapandsalvage.c_coal_clump": "Crude Coal Clump"
+}
